@@ -19,7 +19,7 @@ class Bubble {
     g = g_;
     b = b_;
   }
-  
+
   Bubble(float x_, float y_) {
     this();
     x = x_;
